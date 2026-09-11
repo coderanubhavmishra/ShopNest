@@ -1,6 +1,8 @@
 # ShopNest — MERN E-commerce App
 ShopNest is a full-stack shopping application built with MongoDB, Express, React, and Node.js. It includes a customer storefront, cart and checkout flows, email OTP verification, and an admin dashboard.
 
+👉 Visit ShopNest- https://shopnest-uakq.onrender.com
+
 ## Features
 ### Customers
 - Browse products, search by name, and view product details.
